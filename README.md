@@ -1,3 +1,6 @@
+![api_vouch](api_vouch.jpeg)
+
+
 ## 🚀 Começando
 
 # Projeto Página de documentação de API
