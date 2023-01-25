@@ -1,4 +1,4 @@
-![api](../master/assets/img/layout.jpeg)
+![api](../master/assets/img/layout.png)
 
 
 ## 🚀 Começando
