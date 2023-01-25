@@ -1,4 +1,3 @@
-![layout.png](../master/assets/img/layout.png)
 
 
 ## 🚀 Começando
